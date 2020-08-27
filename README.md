@@ -1,2 +1,2 @@
-# Suresh-Patel
+# Suresh patel
 My code
